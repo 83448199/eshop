@@ -1,0 +1,13 @@
+@font-face {
+
+    font-family: "iraniansans";
+ 
+    src: url("/font/Iranian-Sans/iranian-sans.eot") format("eof");
+ 
+    src: url("/font/Iranian-Sans/iranian-sans.otf") format("otf");
+ 
+    src: url("/font/Iranian-Sans/iranian-sans.woff") format("woff");
+ 
+    src: url("/font/Iranian-Sans/iranian-sans.woff2") format("woff2");
+ 
+ }
