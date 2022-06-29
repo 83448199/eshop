@@ -1,7 +1,87 @@
 .wrapper{
-    margin: 0 auto;
+    margin: 10px auto;
     width: 90%;
 }
 .header{
-    font-family: "iraniansance";
+    
+    background-color: #232f3e;
+    border-radius: 20px 20px 0 0;
+    color: #ffff;;
 }
+.header a{
+    color: #bcbdc7;
+    transition: all 0.2s linear;
+}
+.flex{
+    display: flex;
+  }
+  .icon{
+    width: 31px;
+    margin: 8px 3px 6px 4px;
+  }
+  .log_in{
+      margin: 0 20px 0 0;
+  }
+  .top_info{
+    border-bottom: 2px solid #303e4f;
+    justify-content: space-between;
+    
+    
+  }
+.accountlist{
+    text-align: center;
+
+}
+img{
+    vertical-align: middle;
+}
+.accountlistlink{
+    display: block;
+    padding: 0 15px;
+    
+}
+.accountlistlink:hover{
+    color: #ffff !important;
+}
+.languages{
+    padding: 0 15px;
+}
+.searchbox{
+    flex-grow: 1;
+   vertical-align: middle;
+   height: 40px;
+   justify-content: center;
+   
+
+}
+.header_info{
+    padding: 20px;
+}
+.icon_cart{
+    width: 50px;
+    margin: 0px 0px 10px 10px;
+  }
+.icon_phone{
+    width: 63px;
+    margin: 0px 0px 10px 10px;
+  }
+  .categorylist{
+      border: none;
+      padding:8px 15px;
+      border-radius: 0 15px 15px 0;
+  }
+  .searchinput{
+      border: none;
+      padding:8px 15px;
+      width: 50%;
+
+  }
+  .btnsearch{
+    background-color: #F4A137;
+    border-radius: 20px 0 0 20px;
+    padding: 0px 15px 0px 8px;
+    
+  }
+  .contactus{
+    margin-left: 20px;
+  }
